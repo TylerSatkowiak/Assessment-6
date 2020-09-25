@@ -1,14 +1,20 @@
-﻿
-
+﻿@model List<Assessment6.wwwroot.Character>
 @{
-    ViewData["Title"] = "Home Page";
+    ViewData["Title"] = "Home";
 }
 
 <h2>Choose your favorite character:</h2>
 <form method="get" action="/home/ViewThis">
 
+    Username: <input type="text" name="UserName" required />
+    Character Name:
+              <select name="CharacterID" id="CharacterID" required>
+                  @foreach (Assessment6.wwwroot.Character character in Model)
+                  {
+                      <option value="@character.CharacterID">@character.CharacterName</option>
+                  }
+                  
+              </select>
 
-
-
-
+    <input type="submit" value="Submit"/>
 </form>

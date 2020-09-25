@@ -356,7 +356,13 @@ C:\devbuild4\Assesments\Assessment 6\Assessment6View\bin\Debug\net461\refs\Syste
 C:\devbuild4\Assesments\Assessment 6\Assessment6View\bin\Debug\net461\Assessment6View.Views.dll
 C:\devbuild4\Assesments\Assessment 6\Assessment6View\bin\Debug\net461\Assessment6View.Views.pdb
 C:\devbuild4\Assesments\Assessment 6\Assessment6View\bin\Debug\net461\Microsoft.VisualStudio.Web.BrowserLink.dll
-C:\devbuild4\Assesments\Assessment 6\Assessment6View\obj\Debug\net461\Assessment6View.csproj.CoreCompileInputs.cache
 C:\devbuild4\Assesments\Assessment 6\Assessment6View\obj\Debug\net461\Assessment6View.Views.pdb
 C:\devbuild4\Assesments\Assessment 6\Assessment6View\obj\Debug\net461\Assessment6View.exe
 C:\devbuild4\Assesments\Assessment 6\Assessment6View\obj\Debug\net461\Assessment6View.pdb
+C:\devbuild4\Assesments\Assessment 6\Assessment6View\bin\Debug\net461\Dapper.dll
+C:\devbuild4\Assesments\Assessment 6\Assessment6View\bin\Debug\net461\Dapper.Contrib.dll
+C:\devbuild4\Assesments\Assessment 6\Assessment6View\bin\Debug\net461\Assessment6.exe
+C:\devbuild4\Assesments\Assessment 6\Assessment6View\bin\Debug\net461\Assessment6.pdb
+C:\devbuild4\Assesments\Assessment 6\Assessment6View\bin\Debug\net461\Assessment6.exe.config
+C:\devbuild4\Assesments\Assessment 6\Assessment6View\obj\Debug\net461\Razor\Views\Home\ViewThis.cshtml.g.cs
+C:\devbuild4\Assesments\Assessment 6\Assessment6View\obj\Debug\net461\Assessment6View.csproj.CoreCompileInputs.cache

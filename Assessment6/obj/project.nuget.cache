@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "JRxK57yfo2R6vnUD0wVMz1KZFhrejxna83CYRjyTGVg9UynpT3IUxJs5mb02ky7XUlnQD5tH8feS0K7q4h8U4g==",
+  "dgSpecHash": "20tpn+9Je1M1RKnWxTh7qNHDe+PNOiFR9evGEUcs8xZWPGjKjcJFGjUDR/L+M7o7bagI8Ps+D+Kaho/kQh4bWA==",
   "success": true,
   "projectFilePath": "C:\\devbuild4\\Assesments\\Assessment 6\\Assessment6\\Assessment6.csproj",
   "expectedPackageFiles": [
@@ -98,7 +98,7 @@
     "C:\\Users\\TSATKOWIAK\\.nuget\\packages\\microsoft.extensions.webencoders\\2.1.1\\microsoft.extensions.webencoders.2.1.1.nupkg.sha512",
     "C:\\Users\\TSATKOWIAK\\.nuget\\packages\\microsoft.net.http.headers\\2.1.1\\microsoft.net.http.headers.2.1.1.nupkg.sha512",
     "C:\\Users\\TSATKOWIAK\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
-    "C:\\Users\\TSATKOWIAK\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\TSATKOWIAK\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\TSATKOWIAK\\.nuget\\packages\\newtonsoft.json.bson\\1.0.1\\newtonsoft.json.bson.1.0.1.nupkg.sha512",
     "C:\\Users\\TSATKOWIAK\\.nuget\\packages\\system.appcontext\\4.3.0\\system.appcontext.4.3.0.nupkg.sha512",
     "C:\\Users\\TSATKOWIAK\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",

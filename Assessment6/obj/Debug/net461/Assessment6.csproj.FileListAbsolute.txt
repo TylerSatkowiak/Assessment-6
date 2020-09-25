@@ -318,6 +318,6 @@ C:\devbuild4\Assesments\Assessment 6\Assessment6\bin\Debug\net461\refs\System.Xm
 C:\devbuild4\Assesments\Assessment 6\Assessment6\bin\Debug\net461\refs\System.Xml.XPath.XDocument.dll
 C:\devbuild4\Assesments\Assessment 6\Assessment6\bin\Debug\net461\Dapper.dll
 C:\devbuild4\Assesments\Assessment 6\Assessment6\bin\Debug\net461\Dapper.Contrib.dll
-C:\devbuild4\Assesments\Assessment 6\Assessment6\obj\Debug\net461\Assessment6.csproj.CoreCompileInputs.cache
 C:\devbuild4\Assesments\Assessment 6\Assessment6\obj\Debug\net461\Assessment6.exe
 C:\devbuild4\Assesments\Assessment 6\Assessment6\obj\Debug\net461\Assessment6.pdb
+C:\devbuild4\Assesments\Assessment 6\Assessment6\obj\Debug\net461\Assessment6.csproj.CoreCompileInputs.cache

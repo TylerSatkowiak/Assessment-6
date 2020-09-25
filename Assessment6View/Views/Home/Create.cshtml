@@ -1,0 +1,33 @@
+﻿@model List<Assessment6.User>
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h2>User's Favorites:</h2>
+
+<table>
+    <tr>
+
+        <th>
+            Username
+        </th>
+
+        <th>
+            Favorite Character
+        </th>
+    </tr>
+
+    @foreach (Assessment6.User user in Model)
+    {
+    <tr>
+
+        <td>
+        @user.UserName
+        </td>
+        <td>
+        @user.CharacterName
+        </td>
+    </tr>
+
+    }
+</table>
